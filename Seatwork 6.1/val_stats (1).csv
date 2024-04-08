@@ -1,0 +1,19 @@
+Name,Weapon Type,Price,Fire Rate,Wall Penetration,Magazine Capacity,HDMG_0,BDMG_0,LDMG_0,HDMG_1,BDMG_1,LDMG_1,HDMG_2,BDMG_2,LDMG_2
+Classic,Sidearm,0,6.75,Low,12,78,26,22,66,22,18,66,22,18
+Shorty,Sidearm,300,3.33,Low,2,22,11,9,12,6,5,6,3,2
+Frenzy,Sidearm,450,10,Low,13,78,26,22,63,21,17,63,21,17
+Ghost,Sidearm,500,6.75,Medium,15,105,30,25,87,25,21,87,25,21
+Sheriff,Sidearm,800,4,High,6,160,55,46,145,50,42,145,50,42
+Stinger,SMG,1100,16,Low,20,67,27,22,57,23,19,57,23,19
+Spectre,SMG,1600,13.33,Low,30,78,26,22,66,22,18,66,22,18
+Bulldog,Rifle,2050,10,Medium,24,115,35,30,115,35,30,115,35,30
+Guardian,Rifle,2250,5.25,High,12,195,65,49,195,65,49,195,65,49
+Phantom,Rifle,2900,11,Medium,30,156,39,33,140,35,30,124,31,26
+Vandal,Rifle,2900,9.25,Medium,25,160,40,34,160,40,34,160,40,34
+Marshall,Sniper,950,1.5,Medium,5,202,101,85,202,101,85,202,101,85
+Operator,Sniper,4700,0.75,High,5,255,150,127,255,150,127,255,150,127
+Bucky,Shotgun,850,1.1,Low,5,40,20,17,26,13,11,18,9,7
+Judge,Shotgun,1850,3.5,Low,5,34,17,14,20,10,8,14,7,5
+Ares,Heavy,1600,13,High,50,72,30,25,67,28,23,67,28,23
+Odin,Heavy,3200,12,High,100,95,38,32,77,31,26,77,31,26
+Outlaw,Sniper,2400,2.75,High,2,238,140,119,238,140,119,238,140,119
